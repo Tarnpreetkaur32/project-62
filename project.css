@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+img{
+    width: 450px;
+    height:500px;
+}
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+background-color: pink;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin: 15px;
+    color:white;
+    font-size: 25px;
+}
+#tit{
+    width:550px;
+    height:500px;
+}
+p{
+    font-size:55px;
+  color: black;
+}
